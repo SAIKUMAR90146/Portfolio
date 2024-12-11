@@ -29,14 +29,14 @@ export function Hero() {
               and driving data-informed decisions.
             </p>
             <div className="flex space-x-4">
-              <a href="https://github.com/your-username" className="social-link" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/SAIKUMAR90146" className="social-link" target="_blank" rel="noopener noreferrer">
                 <Github className="w-5 h-5" />
               </a>
-              <a href="https://www.linkedin.com/in/your-profile" className="social-link" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/sai-kumar-senapathi-a302a1266/" className="social-link" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="mailto:govukatta19@gmail.com"
+                href="mailto:saisenapathi325@gmail.com"
                 className="social-link"
                 target="_blank"
                 rel="noopener noreferrer"
