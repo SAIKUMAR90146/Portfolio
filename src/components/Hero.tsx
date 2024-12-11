@@ -68,7 +68,7 @@ export function Hero() {
             <div className="relative">
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-teal-500">
                 <img
-                  src="/src/assests/Screenshot 2024-12-09 155943.png"
+                  src="/src/assests/Screenshot 2024-12-09 155943.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
