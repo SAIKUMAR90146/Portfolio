@@ -50,7 +50,7 @@ export function Hero() {
             </div>
             <div className="flex space-x-4">
               <a
-                href="/src/assests/resume.pdf"
+                href="https://drive.google.com/file/d/160AFjGu5nEf1NuwYEn7zj0lIr5HRufbC/view?usp=drivesdk"
                 download
                 className="bg-teal-500 text-white px-6 py-3 rounded-md hover:bg-teal-600 transition-colors"
               >
