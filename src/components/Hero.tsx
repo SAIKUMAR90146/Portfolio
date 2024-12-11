@@ -50,7 +50,7 @@ export function Hero() {
             </div>
             <div className="flex space-x-4">
               <a
-                href="/path/to/your/resume.pdf"
+                href="/src/assests/resume.pdf"
                 download
                 className="bg-teal-500 text-white px-6 py-3 rounded-md hover:bg-teal-600 transition-colors"
               >
