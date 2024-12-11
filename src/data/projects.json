@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Analysis of Data Analyst Job in India",
+      "description": "This project involved scraping job data for data scientists and analysts from Naukri, cleaning and processing it using Python, and visualizing the results in Power BI to analyze trends in job requirements, salary ranges, and preferred qualifications in the Indian job market.",
+      "technologies": ["Python", "Power BI"],
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000",
+      "url": "https://github.com/SAIKUMAR90146/-Analysis_for_job_in_india.git"
+    },
+    {
+      "id": 2,
+      "title": "Agriculture Analysis",
+      "description": "Python-based analysis on Agriculture and Crop predection",
+      "technologies": ["Python", "Tableau"],
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1000",
+      "url": "https://github.com/SAIKUMAR90146/Agriculture-analysis.git"
+    },
+    {
+      "id": 3,
+      "title": "IT Budget Analysis",
+      "description": "This project is centered around IT budget data, leveraging various Power BI features to create interactive dashboards and insightful visualizations",
+      "technologies": ["Power BI"],
+      "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&q=80&w=1000",
+      "url": "https://github.com/SAIKUMAR90146/IT-Budget-Analysis.git"
+    }
+  ]
+}
