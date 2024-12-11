@@ -3,7 +3,7 @@ import { Github, Linkedin, Mail } from 'lucide-react';
 export function Hero() {
   // Function to copy the email to the clipboard
   const copyEmailToClipboard = () => {
-    const email = 'govukatta19@gmail.com';
+    const email = 'saisenapathi325@gmail.com';
     navigator.clipboard.writeText(email).then(
       () => {
         alert('Email copied to clipboard!');
